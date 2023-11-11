@@ -1,0 +1,23 @@
+ul{
+  list-style-type: none;
+}
+.btn-primary{
+  width: 210px;
+  height: 61px;
+}
+.text1{
+  width: 307px;
+}
+.yearly-btn{
+  width: 160px;
+}
+.monthly-btn{
+  width: 175px;
+}
+.card{
+  width: 330px;
+}
+.btn-light{
+  width: 285px;
+  color: #5454D4;
+}
